@@ -1,0 +1,38 @@
+
+.home-page {
+    background-color: #f9f9f9;
+    padding: 40px;
+  }
+  
+  .hero-section {
+    text-align: center;
+  }
+  
+  .hero-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 40px;
+  }
+  
+  .quote-section {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .quote-section h3 {
+    font-size: 24px;
+  }
+  
+  .quote {
+    font-size: 20px;
+    color: #555;
+    margin-top: 10px;
+  }
+
+ 
+  
