@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedicareApp/static/css/main.146726ff.css",
+    "main.js": "/MedicareApp/static/js/main.3421fb32.js",
+    "static/media/1.jpg": "/MedicareApp/static/media/1.9f6597516a79d0fa512b.jpg",
+    "static/media/2.jpg": "/MedicareApp/static/media/2.4e437c043e5412be247f.jpg",
+    "index.html": "/MedicareApp/index.html",
+    "main.146726ff.css.map": "/MedicareApp/static/css/main.146726ff.css.map",
+    "main.3421fb32.js.map": "/MedicareApp/static/js/main.3421fb32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146726ff.css",
+    "static/js/main.3421fb32.js"
+  ]
+}
